@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#FFA500"                # Warm orange
+backgroundColor = "#0A0A0A"             # Deep black
+secondaryBackgroundColor = "#1A1A1A"    # Widget containers
+textColor = "#F5F5F5"                   # Soft white
+font = "sans serif"
