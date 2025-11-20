@@ -6,3 +6,4 @@ streamlit
 plotly
 flask
 requests
+gunicorn
